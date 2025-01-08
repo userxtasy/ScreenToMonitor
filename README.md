@@ -12,4 +12,6 @@ with a serial number (?im not sure) which should start with B173 and then some r
 
   On Ebay or any other marketplace ( it is more common to find it on Ebay ) search EDP LCD Control Board and your serial number (? still don't know) and you will
   find something looking similar to this : 
-  
+
+  ![image](https://github.com/user-attachments/assets/32e8ee06-1904-40bd-b86f-30fcd61498a7)
+
