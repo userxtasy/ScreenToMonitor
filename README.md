@@ -23,5 +23,9 @@ with a serial number (?im not sure) which should start with B173 and then some r
 
 ## Assembling 
 
-You will just need to plug the LCD cable that comes with the Control Board to your screen and connect the alimentation cable. 
+You will just need to plug the LCD cable that comes with the Control Board to your screen and connect the alimentation cable. You can then create an metallic stucture is you have 
+the ability or buy one of theses [tablette support](https://www.amazon.fr/LISEN-Support-Tablette-Accessoires-Accessoire/dp/B0CST4CYVH?crid=3RXIH4XSGIMVD&dib=eyJ2IjoiMSJ9.SRcTe8s0svTF6A89VrRm-K5LnPeoY1bOWNOG_Z6fkku13JNbjdPOkOppLwEBWrB0TK-vEDKG62kBOINVNoqFEKHnzITVzxP93UT44698kXCzeHdCVQaV06NFUBciHFl61Kc3egxoXRES6mwmS53JQ7ZAVQpmozOUnAHrd6iR1YsGRzTNOAI9YBFPHvOhULYWNmaV06yr3GoNFY72hevJnhMniAajr2WGLVfet3XsPaz4uzevxuJ_vk1sHjCanVD2vr1v8_qRMpCCnrQHostVuGoyylzBDJZ3B2IUocLzxpMYbxqTZ-2RreefXlEN88hGhgC8CiI2Q38Hyc99YN94glwXcAHjl8Prv90e0yhGe9gwVztMVm3Ib5tzOl1j9Mv1wHp_Itd4ZIS4LEszg_0Z4jmCkHRYzSXmU9iHI75rtZU-ye57Ma7tT5TJG0eBh2ct.W3HgpVlwAOnLpV_y2eqiigE9fvrdLBq368OyTjX-sTo&dib_tag=se&keywords=support+tablette&nsdOptOutParam=true&qid=1736340390&sprefix=supportt+able%2Caps%2C88&sr=8-8) to support the screen. 
+
+
+
 
