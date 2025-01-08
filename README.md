@@ -17,3 +17,11 @@ with a serial number (?im not sure) which should start with B173 and then some r
 
   
   *Source : [The control board above](https://www.ebay.fr/itm/176367452157?_skw=edp+control+board+b173&itmmeta=01JH2XFRMX1HVYZZHQ6J8SAA2F&hash=item291051bffd:g:KOgAAOSwg1hmOdhy&itmprp=enc%3AAQAJAAAA8HoV3kP08IDx%2BKZ9MfhVJKmOwNmk%2BtITWi3RxGDK0RvySCGIJC7i4blil75q6a8wt1uB2Ue8OGqtlHrbOAYMWd7e6AnN2fGkUe1R0sOqMR%2Fw%2FxyD%2FoO6DKVv2i%2BeCQfoa1VsUJloExld9U6glX5xApURsczBIE3Q5kaai%2BOnQl4x8%2B6G1sCoUwVSf6bCDuzcwTs2UflO%2Fy3Klc7dxGYckE5RGgIp0dTxlT9pQDYjbsJ4NZk7WjcWkqN82h9KLztUGArgF1IEVFmTwGGGl9kkGHUSyViekYXdQ0KRx48149DLsWRxB5CH6JT7jMb6%2BrA0Tw%3D%3D%7Ctkp%3ABk9SR8qKv92IZQ)
+
+
+==You will need to buy the *Control Board* and *an Alimentation Cable* with a power according to the Control Board which can me found on the item selling page (and an HDMI cable if you don't have one hahaha )==
+
+## Assembling 
+
+You will just need to plug the LCD cable that comes with the Control Board to your screen and connect the alimentation cable. 
+
